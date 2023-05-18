@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 import java.util.Scanner;
 
 public class Bike {

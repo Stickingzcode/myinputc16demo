@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 import java.util.Scanner;
 public class NokiaMenu {
     public static void main(String[] args) {
@@ -5,10 +7,10 @@ public class NokiaMenu {
         System.out.println("Enter your Name: ");
         String clientName = input.nextLine();
         System.out.println(" Welcome " + clientName);
-        System.out.printf("%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n",
+        System.out.printf("%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n",
                 "Press 1 for Phone book", "Press 2 for Messages", "Press 3 for Chat", "Press 4 for Call register", "Press 5 for Tones ",
                 "Press 6 for Settings", "Press 7 for Call divert", "Press 8 for Games", "Press 9 for Calculator", "Press 10 for Reminder",
-                "Press 11 for Clock", "Press 12 for Profiles", "Press 13 for SIM Services");
+                "Press 11 for assignmentPackage.Clock", "Press 12 for Profiles", "Press 13 for SIM Services", "Press 0 to go back");
         System.out.println ("Please select an Option");
         Scanner option = new Scanner(System.in);
         int clientOption = option.nextInt();
@@ -344,18 +346,18 @@ public class NokiaMenu {
                 System.out.println("Reminders");
                 break;
             case 11:
-                System.out.println("Clock");
-                System.out.println("pick from option 1: Alarm Clock, 2: Clock Settings," +
+                System.out.println("assignmentPackage.Clock");
+                System.out.println("pick from option 1: Alarm assignmentPackage.Clock, 2: assignmentPackage.Clock Settings," +
                         " 3: Date Settings, 4: Stopwatch, 5: Countdown timer," +
                         " 6: Autoupdate of date and time ");
                 Scanner clock = new Scanner(System.in);
                 int clockA = clock.nextInt();
                 switch (clockA){
                     case 1:
-                        System.out.println("Alarm Clock");
+                        System.out.println("Alarm assignmentPackage.Clock");
                         break;
                     case 2:
-                        System.out.println("Clock settings");
+                        System.out.println("assignmentPackage.Clock settings");
                         break;
                     case 3:
                         System.out.println("Date settings");
@@ -375,6 +377,12 @@ public class NokiaMenu {
                 break;
             case 13:
                 System.out.println("SIM services");
+                break;
+            case 14:
+                System.out.printf("%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n",
+                        "Press 1 for Phonebook " , "Press 2 for Messages", "Press 3 for Chat", "Press 4 for Call Register", "Press 5 for Tones",
+                        "Press 6 for Settings", "Press 7 for Call Divert", "Press 8 for Games", "Press 9 for Calculator", "Press 10 for Reminders", "Press 11 for assignmentPackage.Clock", "Press 12 for Profiles",
+                        "Press 13 for SIM Services");
                 break;
             default:
                 System.out.println("Back to menu");

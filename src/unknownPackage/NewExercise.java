@@ -1,3 +1,5 @@
+package unknownPackage;
+
 import java.util.Scanner;
 
 public class NewExercise {

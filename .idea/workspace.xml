@@ -5,29 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d489f0-a6be-4a42-8193-6726778bef1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c16demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NokiaMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sentinel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TodayLecture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/TelevisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HandlingExcception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeartRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trick1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VarLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/ArrayMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/MultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/PixelQuantization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayExercises/SmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/BmiCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignmentPackage/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/AccountDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/EnhanceForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/MainPassByV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/PassByV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classPackage/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unknownPackage/Multiple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConditionFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/ConditionFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Exercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unknownPackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NokiaMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/NokiaMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignmentPackage/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,63 +75,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "true",
-    "Repository.Attach.Annotations": "true",
-    "Repository.Attach.JavaDocs": "true",
-    "Repository.Attach.Sources": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Star">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise1" />
+  <component name="RunManager" selected="Application.Clock">
+    <configuration name="Account" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classPackage.Account" />
       <module name="c16demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewExercise" />
+    <configuration name="ArrayChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayExercises.ArrayChart" />
       <module name="c16demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NokiaMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NokiaMenu" />
+    <configuration name="ArrayEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayExercises.ArrayEven" />
       <module name="c16demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern2" />
+    <configuration name="Clock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignmentPackage.Clock" />
       <module name="c16demo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Star" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Star" />
+    <configuration name="PassByV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classPackage.PassByV" />
       <module name="c16demo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Star" />
-        <item itemvalue="Application.Pattern2" />
-        <item itemvalue="Application.NokiaMenu" />
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.NewExercise" />
+        <item itemvalue="Application.Clock" />
+        <item itemvalue="Application.Account" />
+        <item itemvalue="Application.ArrayChart" />
+        <item itemvalue="Application.ArrayEven" />
+        <item itemvalue="Application.PassByV" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +162,17 @@
       <workItem from="1680613880898" duration="1471000" />
       <workItem from="1680616628872" duration="8860000" />
       <workItem from="1680745238418" duration="38580000" />
-      <workItem from="1680877807516" duration="7232000" />
+      <workItem from="1680877807516" duration="9377000" />
+      <workItem from="1681393852241" duration="12670000" />
+      <workItem from="1681839295024" duration="10189000" />
+      <workItem from="1682620269394" duration="720000" />
+      <workItem from="1683534978531" duration="33759000" />
+      <workItem from="1683707861720" duration="46499000" />
+      <workItem from="1683974129319" duration="22499000" />
+      <workItem from="1684163753646" duration="14767000" />
+      <workItem from="1684294057344" duration="5926000" />
+      <workItem from="1684427907194" duration="793000" />
+      <workItem from="1684430293197" duration="3938000" />
     </task>
     <servers />
   </component>
@@ -159,5 +189,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

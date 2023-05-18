@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 public class FizzBuzz {
     public static void main(String[] args) {
 
@@ -8,7 +10,7 @@ public class FizzBuzz {
         while ( Hundred <= 100) {
 
             if ( Odd == 0 && OddI== 0) {
-                System.out.println ("FizzBuzz");}
+                System.out.println ("assignmentPackage.FizzBuzz");}
 
          else if ( Odd == 0) {
              System.out.println ("Fizz");}

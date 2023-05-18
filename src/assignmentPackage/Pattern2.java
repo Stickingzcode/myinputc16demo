@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 import java.util.Scanner;
 public class Pattern2 {
     public static void main(String[] args) {
@@ -41,16 +43,16 @@ public class Pattern2 {
       int number =0;
         switch (number){
             case 3:
-                System.out.println("Number is 3");
+                System.out.println("unknownPackage.Number is 3");
                 break;
             case 4:
-                System.out.println("Number is 4");
+                System.out.println("unknownPackage.Number is 4");
                 break;
             case 5:
-                System.out.println("Number is 5");
+                System.out.println("unknownPackage.Number is 5");
                 break;
             default:
-                System.out.println("Number is  not found");
+                System.out.println("unknownPackage.Number is  not found");
         }
 
         /*int i = 0;

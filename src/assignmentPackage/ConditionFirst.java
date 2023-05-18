@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 public class ConditionFirst {
     public static void main(String[] args) {
         int x = 6;

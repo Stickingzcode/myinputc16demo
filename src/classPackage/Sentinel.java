@@ -1,3 +1,5 @@
+package classPackage;
+
 import java.util.Scanner;
 public class Sentinel {
 

@@ -1,3 +1,5 @@
+package unknownPackage;
+
 import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
@@ -17,7 +19,7 @@ public class TodayLecture {
 }
 
         /*Scanner input = new Scanner(System.in);
-        System.out.println("Enter a Number: ");
+        System.out.println("Enter a unknownPackage.Number: ");
         int firstNumber = input.nextInt();
 
         int sum = 0;
@@ -26,7 +28,7 @@ public class TodayLecture {
             int integer = input.nextInt();
             sum = integer + sum;
             }
-        System.out.println("Your First Number is: " + firstNumber);
+        System.out.println("Your First unknownPackage.Number is: " + firstNumber);
         System.out.println("Your Sum is: " + sum);
         }*/
 

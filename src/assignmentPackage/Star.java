@@ -1,3 +1,5 @@
+package assignmentPackage;
+
 public class Star {
     public static void main(String[] args) {
         int StarI = 0;
